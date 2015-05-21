@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<style>
+.nav li { 
+display: inline;
+}
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+  }
+.jumbotron {
+background-image: url('http://i.imgur.com/YvtzAup.png')
+
+}
+
+.learnmore {
+background-color: #efefef; 
+border-bottom: 1px solid #dbdbdb;
+
+}
+
+
+
+
+ 
+</style> 
+<link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css" rel="stylesheet">
+    
+    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
+    
+    </head>
+
+
+    <body>
+    	 <div class="nav">
+      <div class="container">
+        <ul class="pull-left">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Play</a></li>
+        </ul>
+        <ul class="pull-right">
+          <li><a href="#">About</a></li>
+          <li><a href="file:///D:/bootstrap/bootstrap-3.3.4-dist/Log-in.html">Log In</a></li>
+          <li><a href="#">Help</a></li>
+          </ul>
+      </div>
+  </div>
+
+
+
+  <div class="jumbotron" width: 150px; height:150px;>
+      <div class="container">
+       
+        
+        <h1>.</h1>
+        <p>.</p>
+        
+        <a href="#" style= "position: absolute; right: 850">Log in to test your luck and win big</a>
+      </div>
+  </div>
+<div style="background-color: #FCF7F7;"> 
+  <div class="logo">
+  <a href="file:///D:/bootstrap/bootstrap-3.3.4-dist/skinjackpotindex.html">
+  <img  style="left; position: absolute; top: 2; left:20;" src="http://i.imgur.com/oj7VfZn.png" alt="logo" width="164" heigth="164"  />
+</a>
+</div>
+ <div class="neighborhood-guides">
+      <div class="container">
+     <div style="background-color: #f7f7f7">
+      <h2>Available Games</h2>
+      <p>The current games available. Please read the FAQ section before depositing any skins. Bet responsibly and have fun. </p> 
+     <div class="row">
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <img src="http://i.imgur.com/0d5xUI0.png" >
+    </div>
+    </div>
+
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <img src="http://i.imgur.com/4PHx6Tz.png" >
+    </div>
+    <div class="thumbnail">
+      <img src="http://i.imgur.com/T3iSh3f.png">
+    </div>
+  </div>
+
+  <div class="col-md-4">
+    <div class="thumbnail">
+    <img src="http://i.imgur.com/0d5xUI0.png">
+    </div>
+  </div>
+</div>
+</div>
+</div>
+    <div class="learnmore">
+    <div class="learn-more">
+    <div class="container">
+    <div class="row">
+        <div class="col-md-4">
+      <h3>Raffle</h3>
+      <p>The principle is simple:
+The larger and more expensive items you bet, the more chance you have to hit the jackpot! But even putting 1 cent, you have the opportunity to get all the items!</p>
+      <p><a href="#">Enter raffle</a></p>
+        </div>
+        
+      <div class="col-md-4">
+      <h3>Jackpot</h3>
+      <p>Deposit skins for points. Use the points to spin and win more points, simple right? You can exchange your winnings in the shop for skins. </p>
+      <p><a href="#">Spin the wheel</a></p>
+      </div>
+      
+      <div class="col-md-4">
+      <h3>Coin flip</h3>
+      <p>In this game you deposit your skins on either the t or ct team. The coin flips every 30 minutes. If it lands on your choice, you win. The higher you bet, the higher reward. Simple, risky and fun. </p>
+      <p><a href="#">Flip the coin</a></p>
+      </div>
+      </div>
+    </div>
+  </div>
+  </div>
+  </div>
+
+          </body>
+          </html>
